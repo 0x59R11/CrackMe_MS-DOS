@@ -62,10 +62,12 @@
 		add BX, AX
 		mov word ptr [BX + 3], 240Ah
 
-		mov AH, 09h
-		add DX, 2h
+		mov AH, 02h
+		mov DL, 0Dh
 		int 21h
-
+		mov DL, 0Ah
+		int 21h
+		
 
 		mov SI, offset correctserialnum
 		mov DI, offset inputserialnum + 2
