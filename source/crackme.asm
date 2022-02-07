@@ -1,3 +1,38 @@
+; YO BRO ARE YOU SO WEAKLY?
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+
+
 .model small
 .stack 100h
 .data
